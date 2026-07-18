@@ -22,8 +22,9 @@ I enjoy solving business problems with data and building dashboards that help or
 - Power BI
 - Power Query
 - Google Sheets
-- SPSS
-- STATA
+- Python (Basic)
+- Make.com
+- Power Query
 - Business Analysis
 - Market Research
 - Data Visualization

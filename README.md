@@ -43,8 +43,8 @@ I enjoy solving business problems with data and building dashboards that help or
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- Portfolio: *(Add your Notion portfolio URL)*
+- LinkedIn: *[https://www.linkedin.com/in/belalansari06/](url)*
+- Portfolio: *[https://app.notion.com/p/belal06/Hi-I-m-Belal-Ansari-1b344103eced804c889cd5060b840adb](url)*
 - Email: **belalansari607@gmail.com**
 
 <!--
